@@ -13,7 +13,6 @@ Soy un estudiante de programación en Digital House, actualmente cursando la car
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </li>
-
 </ul>
 
 
