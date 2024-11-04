@@ -8,7 +8,12 @@ Soy un estudiante de programación en Digital House, actualmente cursando la car
 <h2>Podes contactarme en:</h2>
 <ul>
   <li><b>Email:</b> lolofaresestudio@gmail.com</li>
-  <li><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzofares"</img></li>
+<li>
+  <a href="https://linkedin.com/in/lorenzofares" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</li>
+
 </ul>
 
 
